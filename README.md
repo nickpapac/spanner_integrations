@@ -64,9 +64,9 @@ Update the access token to Spanner CI platform Integrations as many times as you
 
 Do not forget to save your Gitlab access token - you won't be able to access it again.
 
-* Step 9 (optional): If you want to trigger Spanner CI on each push / pull request you have to copy the generated Gitlab Webhook Secret Token from Spanner CI (as shown in the above image) and click on Integrations in your Gitlab Project.
+* Step 9: If you want to trigger Spanner CI on each push / pull request you have to copy the generated Gitlab Webhook Secret Token from Spanner CI (as shown in the above image) and click on Integrations in your Gitlab Project.
 
-* Step 10 (optional): Fill the URL with http://console.spannerci.com:4000/gitlab/hooks and paste your Webhook Secret Token. Choose Trigger events (Push or/and Merge request events) whenever you want to trigger Spanner CI.
+* Step 10: Fill the URL with http://console.spannerci.com:4000/gitlab/hooks and paste your Webhook Secret Token. Choose Trigger events (Push or/and Merge request events) whenever you want to trigger Spanner CI.
 
 
 ![alt text](images/5.png)
