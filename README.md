@@ -56,7 +56,7 @@ Details about the GitHub integration can be then found under the Integrations pa
 ![alt text](images/3.png)
 
 * Step 7: Click on Gitlab Integration and wait for a pop-up window with Gitlab Configuration Settings
-* Step 8: Once the Pop-Up window is appeared, paste the generated access token from cliboard to the corresponding field in order to give access to Spanner CI retrieve your repository info
+* Step 8: Once the Pop-Up window is appeared, paste the generated access token from clipboard to the corresponding field in order to give access to Spanner CI retrieve your repository info
 
 ![alt text](images/4.png)
 
