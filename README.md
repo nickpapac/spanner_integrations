@@ -16,9 +16,14 @@ This readme contains everything that is needed to get started using Spanner CI i
 #### GitHub integration (through Spanner CI Official Github App)
 
 
-* Step 1: If you already have a GitHub account click the `SIGN UP WITH GITHUB` button. This will redirect you to GitHub to authorize then you will be prompted to give the app access:
+* Step 1: If you already have a GitHub account click the `SIGN UP WITH GITHUB` button on the [Spanner CI Platform](https://console-spannerci.com). This will redirect you to GitHub to authorize:
 
 ![alt text](images/0_0.png)
+
+* Step 2: You will be prompted to give the app access:
+
+![alt text](images/0_2.png)
+
 
 * Step 2: Then you'll be automatically sign-in to the Spanner CI Platform where you can fill your organization info
 
@@ -58,6 +63,13 @@ Details about the GitHub integration can be then found under the Integrations pa
 Update the access token to Spanner CI platform Integrations as many times as you want.
 
 Do not forget to save your Gitlab access token - you won't be able to access it again.
+
+* Step 9 (optional): If you want to trigger Spanner CI on each push / pull request you have to copy the generated Gitlab Webhook Secret Token from Spanner CI (as shown in the above image) and click on Integrations in your Gitlab Project.
+
+* Step 10 (optional): Fill the URL with http://console.spannerci.com:4000/gitlab/hooks and paste your Webhook Secret Token. Choose Trigger events (Push or/and Merge request events) whenever you want to trigger Spanner CI.
+
+
+![alt text](images/5.png)
 
 
 #### Spanner CI Permission Scopes
