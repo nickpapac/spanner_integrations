@@ -4,7 +4,7 @@
 * [Introduction](#introduction)
 * [Quick Start Guide](#quick-start-guide)
 * [GitHub integration ](#github-integration-through-spanner-ci-official-github-app)
-* [Gitlab Integration (through Webhook)](#gitlab_integration)
+* [Gitlab Integration ](##github-integration-through-spanner-ci-official-github-app)
 * [Spanner CI Permission Scopes](#spannerci_scopes)
 
 
