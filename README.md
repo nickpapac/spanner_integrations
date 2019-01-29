@@ -3,8 +3,8 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Quick Start Guide](#quick-start-guide)
-* [GitHub integration ](#github-integration-through-spanner-ci-official-github-app)
-* [Gitlab Integration ](#gitlab-integration-through-webhook)
+    * [GitHub integration ](* (#github-integration-through-spanner-ci-official-github-app)
+    * [Gitlab Integration ](* (#gitlab-integration-through-webhook)
 * [Spanner CI Permission Scopes](#spanner-ci-permission-scopes)
 
 
