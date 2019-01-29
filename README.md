@@ -16,7 +16,7 @@ This readme contains everything that is needed to get started using Spanner CI i
 ## Quick Start Guide
 
 
-#### GitHub integration (through Spanner CI Official Github App)
+## GitHub integration (through Spanner CI Official Github App)
 
 
 * Step 1: If you already have a GitHub account click the `SIGN UP WITH GITHUB` button on the [Spanner CI Platform](https://console-spannerci.com). This will redirect you to GitHub authorisation page:
@@ -37,7 +37,7 @@ That's the recommended way to sign-up because it doesn't require further actions
 Details about the GitHub integration can be then found under the Integrations page.
 
 
-#### Gitlab Integration (through Webhook)
+## Gitlab Integration (through Webhook)
 
 
 * Step 1: If you already have a Gitlab account, go to the [Gitlab Profile Settings](https://gitlab.com/profile/)
@@ -75,7 +75,7 @@ Do not forget to save your Gitlab access token - you won't be able to access it 
 ![alt text](images/5.png)
 
 
-#### Spanner CI Permission Scopes
+## Spanner CI Permission Scopes
 
 #### GitHub Permission Scopes
 
