@@ -3,7 +3,10 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Quick Start Guide](#quick-start-guide)
-* [Spanner CI Integrations](#integrations)
+* [GitHub integration](#github_integration)
+* [Gitlab Integration](#gitlab_integration)
+* [Spanner CI Permission Scopes](#spannerci_scopes)
+
 
 ## Introduction
 [Spanner CI](https://spannerci.com) integrations gives you and your organization full visibility into your GitHub or Gitlab projects right in Spanner CI Platform, where you can create projects based on your code repositories
