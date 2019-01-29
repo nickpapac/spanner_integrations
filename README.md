@@ -16,7 +16,7 @@ This readme contains everything that is needed to get started using Spanner CI i
 #### GitHub integration (through Spanner CI Official Github App)
 
 
-* Step 1: If you already have a GitHub account click the `SIGN UP WITH GITHUB` button on the [Spanner CI Platform](https://console-spannerci.com). This will redirect you to GitHub to authorize:
+* Step 1: If you already have a GitHub account click the `SIGN UP WITH GITHUB` button on the [Spanner CI Platform](https://console-spannerci.com). This will redirect you to GitHub authorisation page:
 
 ![alt text](images/0_0.png)
 
