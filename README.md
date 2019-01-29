@@ -8,7 +8,7 @@
 ## Introduction
 [Spanner CI](https://spannerci.com) integrations gives you and your organization full visibility into your GitHub or Gitlab projects right in Spanner CI Platform, where you can create projects based on your code repositories
 
-This readme contains everything that is needed to get started using Spanner CI integrations. It's highly recommended to make a fork of this repository and use it as a starting point to understand how Spanner CI can be easily integrated with your own Github or Gitlab [ private | public ] repository. More details about this can be found below. Follow the Quick Start Guide to start using Spanner CI Integrations.
+This readme contains everything that is needed to get started using Spanner CI integrations. It's highly recommended to use it as a starting point to understand how Spanner CI can be easily integrated with your own Github or Gitlab [ private | public ] repository. More details about this can be found below. Follow the Quick Start Guide to start using Spanner CI Integrations.
 
 ## Quick Start Guide
 
