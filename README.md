@@ -72,7 +72,7 @@ Do not forget to save your Gitlab access token - you won't be able to access it 
 * Step 10: Fill the URL with http://console.spannerci.com:4000/gitlab/app/hooks and paste your Webhook Secret Token. Choose Trigger events (Push or/and Merge request events) whenever you want to trigger Spanner CI.
 
 
-![alt text](images/5.png)
+![alt text](images/5_1.png)
 
 
 ## Spanner CI Permission Scopes
